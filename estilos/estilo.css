@@ -1,0 +1,252 @@
+/*Paleta de cores: #efebe0, #ca643b, #d1886b, #e5bca4, #edefdb, #AE431E
+Fontes: Poppins Light, TAN New York*/
+
+body {
+    font-family: TAN New York;
+    margin: 0%;
+}
+
+#navbar{
+    background-color: #EDEFDB;
+    height: 7em;
+    margin: 0%;
+}
+#navbar a{
+    float: right;
+    font-size: 26;
+    font-weight: bolder;
+    color: #AE431E;
+    text-decoration: none;
+    padding: 3%;
+    margin-top: 1;
+    margin-left: 1%;
+    margin-right: 1%;
+    display: block;
+}
+
+#navbar a:hover{
+    color: #e5bca4;
+}
+
+#navbar img{
+    margin: 1%;
+    float: left;
+    width: 175px;
+}
+
+#home{
+    color: #EDEFDB;
+    background: url('../imagens/xicara.png');
+    background-size: 100%;
+    height: 70%;
+    text-align: center;
+    padding-top: 5%
+}
+
+#home table{
+    font-family: Poppins Light;
+    font-size: 40;
+    text-align: center;
+    margin: 4%;
+    color: #EDEFDB;
+    width: 40%;
+    height: 40%;
+}
+
+#produtos{
+    background-color: #efebe0;
+    text-align: center;
+    background-size: 100%;
+    padding-top: 2%;
+    height: 95%;
+    margin-top: 0;
+}
+
+#produtos h1{
+    display: block;
+    color: #ca643b;
+    background-color: #efebe0;
+    font-family: Poppins Light;
+    font-size: 70;
+    text-align: center;
+    padding-top: 2%
+}
+
+#produtos img{
+    width: 300px;
+    height: 300px;
+    vertical-align: inherit;
+    border-radius: 20%;
+}
+.item-foto{
+    float: left;
+    width: 30%;
+    margin-left: 2.5%;
+}
+
+#produtos p{
+    color: #AE431E;
+    font-family: Poppins Light;
+    text-align: center;
+    font-size: 20;
+}
+
+
+#home table{
+    font-family: Poppins Light;
+    font-size: 40;
+    text-align: center;
+    margin: 4%;
+    color: #EDEFDB;
+    width: 40%;
+    height: 40%;
+}
+
+button{
+    width: 20%;
+    height: 30px;
+    font-family: TAN New York;
+    font-size: 15;
+    background-color: transparent;
+    border-color:#ffffff;
+}
+
+button a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+button:hover, button:focus, button:active{
+    background-color:#e5bca4;
+    border: none;
+}
+
+footer{
+background-color: #d1886b;
+text-align: center;
+font-family: TAN New York;
+font-size: 17;
+padding: 1.5%; 
+}
+
+#quemsomos{
+    background-color: #ffffff;
+    text-align: center;
+    background-size: 100%;
+    padding-top: 2%;
+    height: 95%;
+    margin-top: 0;
+    margin-bottom: 10%;
+}
+
+#quemsomos h1{
+    display: block;
+    color: #AE431E;
+    font-family: Poppins Light;
+    font-size: 50;
+    text-align: center;
+    padding-top: 1%
+}
+
+#quemsomos table{
+    font-family: Poppins Light;
+    font-size: 30;
+    text-align: justify;
+    margin: 7%;
+    margin-left: 9%;
+    margin-top: 1%;
+    color: #ca643b;
+    width: 80%;
+    height: 80%;
+}
+
+#quemsomos img{
+    padding: 6%;
+    margin: 3%;
+    width: 500px;
+    height: 450px;
+    border-radius: 20%;
+}
+
+#contato h1{
+    display: block;
+    color: #AE431E;
+    font-family: Poppins Light;
+    font-size: 50;
+    text-align: center;
+    padding-top: 1%
+}
+#contato h3{
+    display: block;
+    color: #000000;
+    font-family: Poppins Light;
+    font-size: 20;
+    text-align: center;
+    padding-top: 1%
+}
+
+#contato img{
+    width: 300px;
+    height: 150px;
+    vertical-align: inherit;
+    border-radius: 20%;
+    margin-top: 9%;
+}
+
+#contato{
+    background-color: #ffffff;
+    text-align: center;
+    background-size: 100%;
+    padding-top: 2%;
+    height: 80%;
+    margin-top: 2%;
+    margin-bottom: 7%;
+}
+
+#contato p{
+    color: #AE431E;
+    font-weight: bold;
+    font-family: Poppins Light;
+    text-align: center;
+    font-size: 20;
+}
+
+#cardapio{
+    background-color: #ffffff;
+    text-align: center;
+    background-size: 100%;
+    padding-top: 0%;
+    height: 80%;
+    margin-top: 0%;
+    margin-bottom: 70%;
+}
+
+#cardapio h1{
+    margin-top: 0;
+    display: block;
+    color: #AE431E;
+    font-family: Poppins Light;
+    font-size: 50;
+    text-align: center;
+    padding-top: 3%
+}
+
+#cardapio h3{
+    display: block;
+    color: #ca643b;
+    font-family: Poppins Light;
+    font-size: 20;
+    text-align: center;
+    padding-top: 1%
+}
+
+#cardapio img{
+    width: 300px;
+    height: 300px;
+    vertical-align: inherit;
+    border-radius: 20%;
+    margin-top: 9%;
+}
+
+
+
